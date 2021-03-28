@@ -9,13 +9,16 @@
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
 ## Project Name
-Description of your project.
+This project has been developed to analyze the "diamonds" data set using the basic steps of machine learning methods.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Pandas
+Scikit-Learn
+Numpy
+Seaborn
+Matplotlib
+
 ```
 ---
 
